@@ -1,4 +1,3 @@
-<script>
 let myChart;
 let dataPerolehan = ""; //data perolehan
 let dataCaleg = ""; //data nama caleg
@@ -174,4 +173,3 @@ function addTitikRibuan(angka) {
 }
 
 ///
-</script>
